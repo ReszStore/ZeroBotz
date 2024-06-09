@@ -6,25 +6,25 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['62895605816958', '𝙁𝙚𝙧𝙕𝘿𝙚𝙫 𝙓𝘿 𖤍.', true],
-['6285878075754', '𝙁𝙚𝙧𝙕𝘿𝙚𝙫 𝙓𝘿 𖤍. v2', true]
+['6289637350757', 'ReszBot 𖤍.', true],
+['6289637350757', 'Resz Bot 𖤍. v2', true]
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '62895605816958'
-global.author = '𝙁𝙚𝙧𝙕𝘿𝙚𝙫 𝙓𝘿 𖤍.'
-global.namebot = '​𝙕𝙚𝙧𝙤𝘽𝙤𝙩𝙯 𖤍'
-global.wm = '𝙕𝙚𝙧𝙤𝘽𝙤𝙩𝙯 𖤍 ʙʏ 𝙁𝙚𝙧𝙕𝘿𝙚𝙫 𝙓𝘿 𖤍.'
-global.stickpack = '𝙕𝙚𝙧𝙤𝘽𝙤𝙩𝙯 𖤍'
-global.stickauth = '𝙁𝙚𝙧𝙕𝘿𝙚𝙫 𝙓𝘿 𖤍.'
+global.nomorwa = '6289637350757'
+global.author = 'Resz Store 𖤍.'
+global.namebot = '​ReszBot 𖤍'
+global.wm = 'ReszStore 𖤍 ʙʏ 𝙁𝙚𝙧𝙕𝘿𝙚𝙫 𝙓𝘿 𖤍.'
+global.stickpack = 'ReszStore 𖤍'
+global.stickauth = 'Resz Store 𖤍.'
 // Link Sosmed
 global.sig = 'https://www.instagram.com/ferzdevsxd'
 global.sgh = 'https://github.com/ZeroBotz-MD'
 global.sgc = 'https://chat.whatsapp.com/LAWdMIQri9SKee5kqmISH0'
 // Donasi
-global.ppulsa1 = '085878075754'
-global.ppulsa2 = '0895605816958'
+global.ppulsa1 = '089637350757'
+global.ppulsa2 = '089637350757'
 global.psaweria = 'https://saweria.co/FerZXD'
 global.ptrakterr = 'https://trakteer.id/ferzxd'
 global.povo = '-'
